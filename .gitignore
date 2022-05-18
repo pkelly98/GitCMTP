@@ -1,0 +1,2 @@
+# ignore ALL .data files
+*.data
