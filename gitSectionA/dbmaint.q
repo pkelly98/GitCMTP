@@ -1,3 +1,5 @@
+/ Minor comment change for Capstone part 2 (second change)
+
 / kdb+ partitioned database maintenance
 \d .os
 WIN:.z.o in`w32`w64
