@@ -1,3 +1,5 @@
+//Minor comment change for Capstone part 2 (3rd change)
+
 //////////////////////////////////////////////////////
 //                                                  //
 //         Overwrite of Logging Library             //
